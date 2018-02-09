@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 2c50d1da3667e184d917bbb3ab8c4614
+timeCreated: 1516871438
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: head
+    21300002: eyebrowL
+    21300004: eyebrowR
+    21300006: legUpL
+    21300008: legUpR
+    21300010: legDownL
+    21300012: knuppel
+    21300014: legDownR
+    21300016: armUpL
+    21300018: nek
+    21300020: armUpR
+    21300022: shoe
+    21300024: handL
+    21300026: shirt
+    21300028: hand2
+    21300030: handR
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 256
+        width: 268
+        height: 236
+      alignment: 9
+      pivot: {x: 0.41953084, y: 0.05570337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyebrowL
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 487
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyebrowR
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 487
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: legUpL
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 356
+        width: 109
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5477569, y: 0.8993655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: legUpR
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 348
+        width: 69
+        height: 116
+      alignment: 9
+      pivot: {x: 0.46766728, y: 0.8910554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: legDownL
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 268
+        width: 46
+        height: 64
+      alignment: 9
+      pivot: {x: 0.6939943, y: 0.76724815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knuppel
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 8
+        width: 36
+        height: 324
+      alignment: 9
+      pivot: {x: 0.43802896, y: 0.11899642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: legDownR
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 260
+        width: 32
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8773726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: armUpL
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 64
+        height: 65
+      alignment: 9
+      pivot: {x: 0.8485838, y: 0.79745835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nek
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 194
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: 0.482294, y: 0.25211844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: armUpR
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 148
+        width: 48
+        height: 76
+      alignment: 9
+      pivot: {x: 0.23662536, y: 0.8033293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shoe
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 200
+        width: 88
+        height: 38
+      alignment: 9
+      pivot: {x: 0.2802866, y: 0.7935446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: handL
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 32
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5464777, y: 0.84887093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shirt
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 47
+        width: 120
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hand2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 97
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: 0.38845292, y: 0.29718804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: handR
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 16
+        width: 77
+        height: 44
+      alignment: 9
+      pivot: {x: 0.08471719, y: 0.24648471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
